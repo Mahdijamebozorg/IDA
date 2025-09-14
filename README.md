@@ -96,10 +96,19 @@ flutter run
 ## 📸 Screenshots
 
 The app includes multiple key screens for different functionalities:
-- Design customization
-- Room style exploration
-- Project management
-- Settings and preferences
+| Screen | Screenshot |
+| ------ | ----------- |
+| Home | <img src="./screenshots/home.PNG" alt="login" width="300"/> |
+| Image | <img src="./screenshots/pick.PNG" alt="login" width="300"/> |
+| Mask | <img src="./screenshots/mask.PNG" alt="otp" width="300"/> |
+| Paint Wall | <img src="./screenshots/paint-wall.PNG" alt="otp" width="300"/> |
+| Change Floor | <img src="./screenshots/change-floor.PNG" alt="otp" width="300"/> |
+| Remove | <img src="./screenshots/remove.PNG" alt="otp" width="300"/> |
+| Redesign | <img src="./screenshots/virtual-staging.PNG" alt="otp" width="300"/> |
+| Result | <img src="./screenshots/result.PNG" alt="otp" width="300"/> |
+| Project | <img src="./screenshots/project.PNG" alt="otp" width="300"/> |
+| Explore | <img src="./screenshots/explore.PNG" alt="explore" width="300"/> |
+| Settings | <img src="./screenshots/settings.PNG" alt="explore" width="300"/> |
 
 ## 📄 License
 
@@ -113,16 +122,5 @@ For development:
 - Flutter SDK: 3.29.3
 - Dart SDK: 3.7.2
 - VS Code or Android Studio with Flutter plugins
-
-## 📌 TODOs
-
-Future improvements planned:
-- Implement push notifications
-- Add Firebase Analytics
-- Enhance sharing capabilities
-- Add more design templates
-- Optimize AI processing
-
----
 
 _For more information about the app's features and development, please contact the development team._
