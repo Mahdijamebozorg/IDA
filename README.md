@@ -75,24 +75,6 @@ lib/
  └── routes.dart     # App routing
 ```
 
-## 🚀 Getting Started
-
-1. Clone the repository
-2. Install dependencies:
-```bash
-flutter pub get
-```
-
-3. Run the code generator:
-```bash
-dart run build_runner watch -d
-```
-
-4. Run the app:
-```bash
-flutter run
-```
-
 ## 📸 Screenshots
 
 The app includes multiple key screens for different functionalities:
